@@ -8,6 +8,6 @@
 ## usage
 ```bash
 
-curl https://pjc-pub-install.github.io/main.bash | bash
+curl -L pjc-pub-install.github.io/main.bash | bash
 
 ```
